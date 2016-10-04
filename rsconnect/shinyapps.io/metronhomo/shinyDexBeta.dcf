@@ -1,0 +1,10 @@
+name: shinyDexBeta
+account: metronhomo
+server: shinyapps.io
+appId: 127329
+bundleId: 565984
+url: https://upax.shinyapps.io/shinyDexBeta/
+when: 1474616023.7287
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 7 base con cluster nacional.rds|catalogo de estados.rds|manipulacion.R|mexico.rds|mexico.zip|data/datosMapa.rds
